@@ -1,0 +1,14 @@
+
+select distinct c.name from invoice i,company_code c where i.company_code_id = c.id and i.number in
+('1339361',
+'1339362',
+'1339363',
+'1339364',
+'1339365',
+'1339366',
+'1339367',
+'1339368',
+'1339369',
+'1339370',
+'1339371') 
+order by c.name;

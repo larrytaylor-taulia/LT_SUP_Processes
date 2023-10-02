@@ -1,0 +1,25 @@
+[https://taulia.atlassian.net/browse/SUP-26261](https://taulia.atlassian.net/browse/SUP-26261)
+
+Can we please move the following accounts to the access of hannah.silcock@bakerhughes.com. Company ID 3ee6faecdcf4439983be1e8063071647
+
+0001084678	SONDEX WIRELINE LTD		Halliburton : current ID: Company: id [8a0386f672801c730172a340b3b13ce6], name [BAKER HUGHES], domain [DOMUOftei9H6nHU]
+
+0002008645	REUTER STOKES LLC		Halliburton : current ID: Company: id [8a0386f672801c730172a340b3b13ce6]
+
+0001186819	SONDEX MIDDLE EAST FZCO		Halliburton
+
+0001222811	ZENITH OILFIELD TECHNOLOGY LTD Halliburton
+
+0005000322	REUTER - STOKES LLC	 Halliburton
+
+it was confirmed they are apart of Baker Hughes
+Support Helpdesk ID
+
+02527855
+Customer Project
+
+Baker Hughes
+Halliburton
+Deployment Environment
+
+PRD - NA1

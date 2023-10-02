@@ -1,0 +1,38 @@
+0001084678:
+Supplier Contact -> id [8a87ad6484ee733901857c8b79e13b17], name [Riya Ghosh], email [riya.ghosh@bakerhughes.com], transactionId [c05d57d9251349f5823dfc0bcbc699ed], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+Supplier Contact -> id [8a878d488090710d01809456e6c82ef6], name [Pinky Pal], email [pinky.pal2@bakerhughes.com], transactionId [d3b828ae47974ecbb57956683ad0803b], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+Supplier Contact -> id [243b0d6ad24211eab8620a580a800202], name [YUSI SAMRINA], email [yusi.samrina@ge.com], transactionId [243b0e31d24211eab8620a580a800202], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+Supplier Contact -> id [70fa6963d14311eab8620a580a800202], name [Ammar Rasul], email [ammar.rasul@bhge.com], transactionId [51538613875a4163b9cc5e5e6748cf5a], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+Supplier Contact -> id [8a87a1c28240f52e0182682114db40b1], name [ ], email [thang.pham@bakerhughes.com], transactionId [1446ae89e5b648198664b09094498138], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+Supplier Contact -> id [a9597e8b1fcd4b0eac3da52b85e07344], name [Hannah Silcock], email [hannah.silcock@bakerhughes.com], transactionId [8dac23e81b704221a362b531687c80d2], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+Supplier Contact -> id [8a87a6b782d0fe4a0182e367e2ee3f83], name [Thang Pham], email [thang.pham@bakerhughes.com], transactionId [979dd20f0b3d4ef0b1b8edfce12b3439], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+Supplier Contact -> id [8a0087fd701b60880170abf794a123ac], name [null ], email [lavanya.sp@bakerhughes.com], transactionId [9e7bb4b1ff3d4bdc97704fd018a0accd], invitationEligibilityStatus [INVITABLE_MERGE]
+Supplier Contact -> id [8a87959f83a92c350183e655321629c6], name [ ], email [WERONIKA.TREBINSKA@bakerhughes.com], transactionId [924b36ab899f431a82d19110d3cb7211], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+Supplier Contact -> id [8a87b4c786f20b600186ff84cdc358fc], name [ ], email [Christian.Marcial@bakerhughes.com], transactionId [2f37f0245b9546a98f3782069f027948], invitationEligibilityStatus [INVITABLE_MERGE]
+Supplier Contact -> id [8a879ff8819c2b4a0181dda3200b0c58], name [Neha Gupta], email [neha.gupta@bakerhughes.com], transactionId [12de50ed84124863a1d5deecfa3f5603], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPAN
+
+0002008645:
+Supplier Contact -> id [8a0387086a935ca3016ac0eef0a603d0], name [Masaki Urushihara], email [Masaki.Urushihara@bhge.com], transactionId [f3e74cdf83964b1d82faf2102ee15256], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+Supplier Contact -> id [01a0ec1fd12711eab8620a580a800202], name [Lavanya Prakash ], email [go.portals@bakerhughes.com], transactionId [4e95d45661504debb67cabf8757672a4], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+
+0001186819:
+Supplier Contact -> id [243b90dad24211eab8620a580a800202], name [YUSI SAMRINA], email [yusi.samrina@ge.com], transactionId [243b91b7d24211eab8620a580a800202], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+
+0001222811:
+Supplier Contact -> id [8a87a11f809071640180fae23dc03315], name [ ], email [susan.spears@bakerhughes.com], transactionId [256992225855418386c127ae82278bc5], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+Supplier Contact -> id [8a87a11f809071640180fae44e963316], name [ ], email [james.samuels@bakerhughes.com], transactionId [4b85f3e86ef64821b4252d903d504aa3], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+
+
+0005000322:
+Supplier Contact -> id [8a878d70814471b201817258d754789d], name [soundarya harikrishna], email [soundarya.harikrishna@bakerhughes.com], transactionId [7a3eeeb11ec2409980ebc70f62250ba6], invitationEligibilityStatus [INVITABLE]
+Supplier Contact -> id [8a87978587e3932501880bce94202872], name [Lavanya Prakash], email [go.portals@bakerhughes.com], transactionId [6f39a20a5a20449c9aa7e44c83e8d289], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+Supplier Contact -> id [8a00904d74a818ec0174b7aa67a60e0c], name [ ], email [Ibakordor.Mawthoh@bakerhughes.com], transactionId [f685843c34e94430b0e167f7705051dd], invitationEligibilityStatus [INVITABLE]
+Supplier Contact -> id [8a02927a74a8195e0174b7aa35260e1b], name [ ], email [lavanya.sp@bakerhughes.com], transactionId [9db4ca6c1d414a009be5e07e52a424d2], invitationEligibilityStatus [INVITABLE_MERGE]
+Supplier Contact -> id [8a0287f97497ccb50174987d08f80068], name [ ], email [sania.muzaffar@BakerHughes.com], transactionId [b979481cfa294a928553f09297c18e57], invitationEligibilityStatus [INVITABLE]
+Supplier Contact -> id [243c16dbd24211eab8620a580a800202], name [YUSI SAMRINA], email [yusi.samrina@ge.com], transactionId [243c17add24211eab8620a580a800202], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+Supplier Contact -> id [8a8795c587e3afbf018829edfd9e7727], name [ ], email [Ramakrishna.vkamath@bakerhughes.com], transactionId [cc4ccf93e2874749a0fbec7382d8b587], invitationEligibilityStatus [INVITABLE_MERGE]
+Supplier Contact -> id [8a8795c587e3afbf018829ef25db774b], name [ ], email [RAMYA.DODDAIAH@bakerhughes.com], transactionId [d95621e394fe4cd7a96c37ace7ed6d92], invitationEligibilityStatus [ALREADY_INVITED_FOR_SAME_COMPANY]
+Supplier Contact -> id [8a0193e474a819920174b7aa643f0e43], name [ ], email [Ibakordor.Mawthoh@bakerhughes.com], transactionId [a2c522c106fe4d5daecbd12200f1e9e6], invitationEligibilityStatus [INVITABLE]
+Supplier Contact -> id [8a028d8579d815080179e9e78bf96e6c], name [APARNA LAL], email [aparna.lal@bakerhughes.com], transactionId [f793b54793e740018f1691c0d303f135], invitationEligibilityStatus [INVITABLE_MERGE]
+Supplier Contact -> id [8a009603796173330179b459c949303a], name [ ], email [aparna.lal@BakerHughes.com], transactionId [bb8e53774a7048bf90e18fa6ce3470f1], invitationEligibilityStatus [INVITABLE_MERGE]
+Supplier Contact -> id [8a87ae87860e8d0e01860e9bd9a40257], name [Portal Team], email [vg.billingcoe@bakerhughes.com], transactionId [80734e4327614406a040d04c55993725], invitationEligibilityStatus [INVITABLE_MERGE]

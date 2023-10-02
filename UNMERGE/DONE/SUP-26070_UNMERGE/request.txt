@@ -1,0 +1,33 @@
+Hello team, the supplier below has contact us since they have access to two clientes in taulia and due to a re-org, the other customer account has been transitioned to a new team. They want to un-merge the two customer accounts so that the new team can manage their customer account separately and we maintain confidentiality of data.
+
+
+This is how the new accounts will be
+
+9000157197 TATA CONSULTANCY SERVICES LTD. Applied Materials, Inc.
+
+9000178319 TATA CONSULTANCY SERVICES Applied Materials, Inc.
+
+Admin accounts:
+
+· eswara.gupta@tcs.com
+
+· d.sabarinath@tcs.com
+
+· sachin.khanna@tcs.com
+
+amat.pmo@tcs.com
+
+saima.naseem@tcs.com
+
+venkat.vunnam@tcs.com
+
+
+
+0001051232 TATA CONSULTANCY SERVICES LIMITED Lam Research
+
+Admin accounts:
+
+· ashish.agrawal@tcs.com
+himadrishekhar.das@tcs.com
+
+savitha.poojari@tcs.com

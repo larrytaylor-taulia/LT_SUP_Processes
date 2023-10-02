@@ -1,0 +1,9 @@
+to move FAQ page from Staging to PROD for buyer T-Mobile 1a41e638743d4826b6b88215c9f70999
+
+expected inserts : 1 row 
+
+verification post execution:
+
+select count(id) 
+from customer_specific_content 
+where buyer_id = '1a41e638743d4826b6b88215c9f70999';

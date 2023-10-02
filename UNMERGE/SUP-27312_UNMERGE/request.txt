@@ -1,0 +1,96 @@
+
+
+
+Accounts 1		
+Current Company_id: 34784eaf414a46ff88abc4984bf8182a
+*** New Company_id:	325ecb96a60548cbbded967927725d19
+
+          New Name: ACCENTURE INC      DOM: DOMHVXlKHn7BD
+
+supplier_master                  company_id                      Vendor num	 Vendor name 	                Buyer
+8a0191d6744f93a301747de99847465d 34784eaf414a46ff88abc4984bf8182a 0001047699 ACCENTURE LLP	                 Lam Research
+8a018d1d7377704b01739089dcda19d1 34784eaf414a46ff88abc4984bf8182a 0001049530 ACCENTURE INTERNATIONAL LIMITED Lam Research
+8a028d8779d8153c017a39014cf0305a 34784eaf414a46ff88abc4984bf8182a 9000017196 ACCENTURE LLP	                 Applied Materials, Inc.
+8a87b1ba80906e380180d9d07ed316d0 34784eaf414a46ff88abc4984bf8182a 9000196295 ACCENTURE INTERNATIONAL LIMITED Applied Materials, Inc.
+8ad86b40412e61da01413df64e21003e 6f3b13f3afa14575aeab6dcdccdaf297 0000665796 ACCENTURE INC	                 TELUS
+		
+Users for Accounts 1 		
+Email		
+dewey.doyle@accenture.com		
+jayapradha.rajakumar@accenture.com		
+srinivas.joshi@accenture.com		
+
+________________________________________________________________________________________________________________________
+Accounts 2		
+		
+Vendor number	Vendor name	Buyer
+0000003746	ACCENTURE INTERNATIONAL LTD	Dominion Energy
+0000087430	ACCENTURE LLP	Sempra Energy
+0000129501	ACCENTURE INTERNATIONAL LIMITED	Sempra Energy
+0001084038	PROQUIRE LLC	Pacific Gas and Electric
+0033010920	ACCENTURE LLP	Agilent Technologies
+0033039367	ACCENTURE LLP	Agilent Technologies
+0033039368	ACCENTURE LLP	Agilent Technologies
+0300038130	PROQUIRE LLC	Dominion Energy
+0300044565	ACCENTURE LLP	Dominion Energy
+		
+Users for Accounts 2		
+Email		
+abel.valencia.soler@accenture.com		
+agilent.pcs@accenture.com		
+albert.chang@accenture.com		
+alita.c.dale@accenture.com		
+ana.cecilia.drisaldi@accenture.com		
+angel.davis@accenture.com		
+ariel.silvera@accenture.com		
+bari.s.barr@accenture.com		
+beth.samaniego@accenture.com		
+burrell.g.kilmer@accenture.com		
+charlene.fernandes@accenture.com		
+charles.m.george@accenture.com		
+christina.c.black@accenture.com		
+christopher.swanson@accenture.com		
+colleen.pierce@accenture.com		
+deborah.garand@accenture.com		
+divya.rath@accenture.com		
+dominion.cpmo@accenture.com		
+elena.elisabet.antal@accenture.com		
+erik.mueller@accenture.com		
+florencia.manzone@accenture.com		
+gonzalo.e.garcia@accenture.com		
+guillermo.a.cibeira@accenture.com		
+jayapradha.rajakumar@accenture.com		
+jonathan.montaldi@accenture.com		
+juan.cruz.espina@accenture.com		
+judson.m.samet@accenture.com		
+k.j.natarajan@accenture.com		
+kenneth.m.wittmer@accenture.com		
+kiran.thatikonda@accenture.com		
+lammees.boulad@accenture.com		
+lia.zovato@accenture.com		
+linda.c.ye@accenture.com		
+lucy.finkelstein@accenture.com		
+m.d.figuera.pereira@accenture.com		
+m.f.gonzalez.blanco@accenture.com		
+marcus.d.houston@accenture.com		
+maria.celeste.tapia@accenture.com		
+mariana.serafini@accenture.com		
+martin.di.nezio@accenture.com		
+matias.rinaudo@accenture.com		
+mauro.f.spagnolo@accenture.com	
+meeta.choudhary@accenture.com  (onfile not in this list)	
+melina.a.rodriguez@accenture.com		
+melisa.fischer@accenture.com		
+micaela.izaguirre@accenture.com		
+mohammed.rezwan@accenture.com		
+norma.ceballos@accenture.com		
+pooja.bhanot-anand@accenture.com		
+reena.raj.gogikar@accenture.com		
+romain.sylvain.oules@accenture.com		
+sergio.m.puertas@accenture.com		
+srinivas.joshi@accenture.com		
+sudeep.a.mukherjee@accenture.com		
+tasmin.mitha@accenture.com		
+tomas.gabriel.valor@accenture.com		
+vikrant.choudhary@accenture.com		
+ye.s.kim@accenture.com		

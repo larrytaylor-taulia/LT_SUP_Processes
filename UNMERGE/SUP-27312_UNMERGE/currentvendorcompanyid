@@ -1,0 +1,8 @@
+8a028a4f74a818be0174dfc6645f73ae
+
+Get the supplier master id's:
+select id from supplier_master where company_id  in (
+    '6f3b13f3afa14575aeab6dcdccdaf297',
+    '
+results:
+

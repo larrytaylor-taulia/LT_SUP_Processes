@@ -1,0 +1,5 @@
+
+
+Get the supplier master id's:
+select * from supplier_master where company_id  = '759ee3dab1a94fbcb1a64f49d25f3905';
+                                                   759ee3dab1a94fbcb1a64f49d25f3905 
